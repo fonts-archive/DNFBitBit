@@ -7,7 +7,7 @@
 CSS
 
 ```
-font-family: 'DNF BitBit';
+font-family: 'bitbit';
 ```
 
 &nbsp;
@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'DNF BitBit';
+    font-family: 'bitbit';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
